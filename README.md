@@ -53,8 +53,8 @@ projetoBolao/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/xouel/projetoBolao.git
-   cd projetoBolao
+   git clone https://github.com/xouel/projeto-bolao.git
+   cd projeto-bolao
    ```
 2. Configure o back-end no Google Apps Script (planilha do Google Sheets + deploy do `code.gs` como Web App).
 3. Atualize a URL da API em `api.js` apontando para o seu Web App do Apps Script.
